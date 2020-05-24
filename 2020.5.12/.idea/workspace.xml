@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="582342b4-f9f5-4376-b208-09328b23fa43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="2020.5.12" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bngLS3wm26q6s7vd6uuYOeKa6z" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestDemo2">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="2020.5.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo2" />
+      <module name="2020.5.12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo2" />
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="582342b4-f9f5-4376-b208-09328b23fa43" name="Default Changelist" comment="" />
+      <created>1589273215856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589273215856</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1589274727083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589274727083" />
+    <state width="754" height="142" key="GridCell.Tab.0.bottom" timestamp="1589294810863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="754" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589294810863" />
+    <state width="754" height="142" key="GridCell.Tab.0.center" timestamp="1589294810851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="754" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589294810851" />
+    <state width="754" height="142" key="GridCell.Tab.0.left" timestamp="1589294810817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="754" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589294810817" />
+    <state width="754" height="142" key="GridCell.Tab.0.right" timestamp="1589294810852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="754" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589294810852" />
+    <state x="514" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1589328845364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="514" y="182" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589328845364" />
+    <state x="115" y="0" key="new project wizard" timestamp="1589329275210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589329275210" />
+  </component>
+</project>
